@@ -14,6 +14,6 @@ Skills: JAVA / GIT / GitHub / JS / HTML / CSS
 
 **📫 How to reach me: deharodiegoenrique@gmail.com
 
-**😄 Pronouns: He
+**😄 Nickname: Wally
 
 **⚡ Fun fact: Gamer!

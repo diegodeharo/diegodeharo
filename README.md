@@ -6,8 +6,9 @@ It's a pleasure having you around here!!! I am a dynamic person, open to new cha
 
 Skills: JAVA / GIT / GitHub / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
-
-
-
-
+🔭 I’m currently working on freelancer
+🌱 I’m currently learning FullStack
+👯 I’m looking to collaborate on All that I can within my knowledge and +!
+📫 How to reach me: deharodiegoenrique@gmail.com
+😄 Pronouns: He
+⚡ Fun fact: Gamer!
